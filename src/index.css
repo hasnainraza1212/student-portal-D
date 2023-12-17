@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .table th,
+  .table td {
+    border: 0;
+  }
+  
+  .table th {
+    background-color: #f8f9fa; /* Header background color */
+  }
+  
+  .table td,
+  .table th {
+    border-bottom: 1px solid #dee2e6; /* Border color for bottom border */
+    padding: 8px; /* Adjust padding as needed */
+  }
+  
+  .table th:first-child,
+  .table td:first-child {
+    border-left: 1px solid #dee2e6; /* Border color for left border */
+  }
+  
+  .table th:last-child,
+  .table td:last-child {
+    border-right: 1px solid #dee2e6; /* Border color for right border */
+  }

@@ -1,0 +1,110 @@
+export const students = [
+    {
+        "_id": "657edbe2610648870a3de107",
+        "name": "Abdul Wasay",
+        "email": "hafa@gmail.com",
+        "phone": "0121283921",
+        "password": "$2b$10$sUaO4.SshoO4xizd1woD4uLhAK8T9zy6sbhQA1CrKlQY6lqnKWvmi",
+        "course": "web & app dev",
+        "imgUrl": "jkdfbsjkdafbjksdfsfjksdbd",
+        "attendance": [],
+        "registrationDate": "2023-12-17T11:30:42.377Z",
+        "__v": 0
+    },
+    {
+        "_id": "657ee4f1188673f553fd47b3",
+        "name": "Ibad",
+        "email": "wasa12@gmail.com",
+        "phone": "0121283921",
+        "password": "$2b$10$Am/Sbio.hYOj8sRbFCUMbO41SEKEI1/oX6i7wohaneFT.wrgieG76",
+        "imgUrl": "dafasfhjasfdfasfdasdasdasd",
+        "course": "web & app dev",
+        "attendance": [],
+        "registrationDate": "2023-12-17T12:09:21.382Z",
+        "__v": 0
+    },
+    {
+        "_id": "657ee4f3188673f553fd47b6",
+        "name": "thomas",
+        "email": "thomas@gmail.com",
+        "phone": "0121283921",
+        "password": "$2b$10$ZkXw0Zxj8AMrCiSDWdiB/eoVnRbMPp52YqURmzYNg9uVkEJLt2h2O",
+        "imgUrl": "thomasjkdfbsjkdafbjksdfsfjksdbd",
+        "course": "web & app dev",
+        "attendance": [],
+        "registrationDate": "2023-12-17T12:09:23.728Z",
+        "__v": 0
+    },
+    {
+        "_id": "657ee4ff188673f553fd47b9",
+        "name": "Aliyan Ahmed",
+        "email": "wasae12@gmail.com",
+        "phone": "0121283921",
+        "password": "$2b$10$z8OWWnUWRreTui9aOUFyoec1OSNf1wM5bbo58JJ5ClErrzPOrjS7i",
+        "imgUrl": "dafasfhjasfdfasfdasdasdasd",
+        "course": "web & app dev",
+        "attendance": [],
+        "registrationDate": "2023-12-17T12:09:35.087Z",
+        "__v": 0
+    },
+    {
+        "_id": "657ee50b188673f553fd47bc",
+        "name": "Ammar Moin",
+        "email": "ammar@gmail.com",
+        "phone": "0121283921",
+        "password": "$2b$10$kPsPBWmMEowGbofP8IEm/OvQnC1/nDffZdbcrxF3Ly/N5C0J.j3Ou",
+        "imgUrl": "dafasfhjasfdfasfdasdasdasd",
+        "course": "web & app dev",
+        "attendance": [],
+        "registrationDate": "2023-12-17T12:09:47.250Z",
+        "__v": 0
+    },
+    {
+        "_id": "657ee52a188673f553fd47bf",
+        "name": "john",
+        "email": "john@gmail.com",
+        "phone": "0121283921",
+        "password": "$2b$10$pxMFHRQ7z3PVwdGcwUx7FudrYY8F9zMrv7rceroTDbVKQcKl7TstK",
+        "imgUrl": "johnjkdfbsjkdafbjksdfsfjksdbd",
+        "course": "web & app dev",
+        "attendance": [],
+        "registrationDate": "2023-12-17T12:10:18.442Z",
+        "__v": 0
+    },
+    {
+        "_id": "657ee530188673f553fd47c2",
+        "name": "Ahtram malik",
+        "email": "ahtram@gmail.com",
+        "phone": "0121283921",
+        "password": "$2b$10$l0sigdY0qiJPfPBfIbaV6OrWuDPhVOmeEVutncDqKbbbeVFQwWG6K",
+        "imgUrl": "dafasfhjasfdfasfdasdasdasd",
+        "course": "graphic desiginer",
+        "attendance": [],
+        "registrationDate": "2023-12-17T12:10:24.847Z",
+        "__v": 0
+    },
+    {
+        "_id": "657ee542188673f553fd47c6",
+        "name": "michael",
+        "email": "michael@gmail.com",
+        "phone": "0121283921",
+        "password": "$2b$10$NZfxk.0hWwX7l.NjQjipCu35FBv7dBUfELG9N8edsTdjqalLJ1m1C",
+        "imgUrl": "michaeljkdfbsjkdafbjksdfsfjksdbd",
+        "course": "web & app dev",
+        "attendance": [],
+        "registrationDate": "2023-12-17T12:10:42.562Z",
+        "__v": 0
+    },
+    {
+        "_id": "657ee565188673f553fd47ca",
+        "name": "Ahtram malik",
+        "email": "ahtram123@gmail.com",
+        "phone": "0121283921",
+        "password": "$2b$10$7Ab28PYGpa.f0jo28o2LhOhS94/9Zo4mK3xWbNxmtufpbWgmdljJi",
+        "imgUrl": "https://media.licdn.com/dms/image/D4D03AQGGKXhJvY2Qqg/profile-displayphoto-shrink_800_800/0/1674832445723?e=2147483647&v=beta&t=4jyu_-dERvulU2Sq1IfadxcHqudMh3jsPghuNXr9lg4",
+        "course": "graphic desiginer",
+        "attendance": [],
+        "registrationDate": "2023-12-17T12:11:17.024Z",
+        "__v": 0
+    }
+]
